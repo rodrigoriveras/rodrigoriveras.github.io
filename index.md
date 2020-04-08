@@ -25,4 +25,4 @@ document.getElementById("msg").innerHTML = event.data;
 
 
 
-<div class="alertify-notifier ajs-bottom ajs-right"></div><div class="alertify"><iframe class="ajs-footer" src="A%20page%20to%20be%20wmv.htm"></iframe></div></body></html>
+<div class="alertify-notifier ajs-bottom ajs-right"></div><div class="alertify"><iframe class="ajs-footer" src="A%20page%20to%20be%20/wmv.htm"></iframe></div></body></html>
