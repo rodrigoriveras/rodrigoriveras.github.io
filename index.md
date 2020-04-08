@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html><head>
 <meta http-equiv="content-type" content="text/html; charset=windows-1252">
 	<title>A page to be embed</title>
