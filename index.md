@@ -13,12 +13,7 @@
 
 <script type="text/javascript">
 	
-window.addEventListener("message", function(event) {
 
-document.getElementById("msg").innerHTML = event.data;
-
-
-});
 
 </script>
 
